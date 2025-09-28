@@ -12,14 +12,14 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    var t = 'xxxx'
-    setTimeout(() => {
-      t = 'xxxxxss'
-      console.log(t,'t')
-      this.setData({
-        text: 'xxxx'
-      })
-    }, 1000)
+    // var t = 'xxxx'
+    // setTimeout(() => {
+    //   t = 'xxxxxss'
+    //   console.log(t,'t')
+    //   this.setData({
+    //     text: 'xxxx'
+    //   })
+    // }, 1000)
   },
 
   /**

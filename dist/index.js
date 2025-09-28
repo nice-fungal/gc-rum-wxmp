@@ -440,7 +440,7 @@ var TRIM_REGIX = /^\s+|\s+$/g, DEFAULT_CONFIGURATION = {
     sampleRate: 100,
     flushTimeout: 30 * ONE_SECOND,
     maxErrorsByMinute: 3e3,
-    maxBatchSize: 50,
+    maxBatchSize: 5,
     maxMessageSize: 256 * ONE_KILO_BYTE,
     batchBytesLimit: 16 * ONE_KILO_BYTE,
     datakitUrl: "",

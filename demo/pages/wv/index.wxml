@@ -1,0 +1,3 @@
+<view class="container">
+  <web-view src="https://cdn.lisitede.com/modernizr-aee143-002.html"></web-view>
+</view>

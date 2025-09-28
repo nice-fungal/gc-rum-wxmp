@@ -877,7 +877,7 @@ var DEFAULT_CONFIGURATION = {
   /**
    * Logs intake limit
    */
-  maxBatchSize: 50,
+  maxBatchSize: 5,
   maxMessageSize: 256 * ONE_KILO_BYTE,
   /**
    * beacon payload max queue size implementation is 64kb

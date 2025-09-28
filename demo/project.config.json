@@ -48,30 +48,13 @@
   },
   "compileType": "miniprogram",
   "libVersion": "3.2.5",
-  "appid": "wx4bffe864f9649b91",
+  "appid": "wx02241a86982f336c",
   "projectname": "demo",
-  "isGameTourist": false,
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
-  "condition": {
-    "search": {
-      "list": []
-    },
-    "conversation": {
-      "list": []
-    },
-    "game": {
-      "list": []
-    },
-    "plugin": {
-      "list": []
-    },
-    "gamePlugin": {
-      "list": []
-    },
-    "miniprogram": {
-      "list": []
-    }
-  },
-  "editorSetting": {}
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
 }
