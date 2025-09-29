@@ -1,7 +1,6 @@
 cjs
 esm
 bundle
-demo
 demo2
 node_modules
 .vscode
@@ -25,3 +24,5 @@ local.log
 .Trashes
 
 package-lock.json
+
+project.private.config.json
